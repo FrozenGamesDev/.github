@@ -1,11 +1,11 @@
 # Frozen Games
-We are a team that you can apply for at https://discord.gg/KgvnmctnZt
+We are a team that you can apply for at [Discord](https://discord.gg/KgvnmctnZt)
 
 
 ### How to get a service made
 ---------
 Solution -  
-&nbsp;&nbsp;&nbsp;&nbsp;###### Step #1 > Join the discord at https://discord.gg/KgvnmctnZt   
+&nbsp;&nbsp;&nbsp;&nbsp;###### Step #1 > Join the discord at [Discord](https://discord.gg/KgvnmctnZt)   
 &nbsp;&nbsp;&nbsp;&nbsp;###### Step #2 > Create a commission ticket  
 &nbsp;&nbsp;&nbsp;&nbsp;###### Step #3 > Fill out the questions that it provides  
 &nbsp;&nbsp;&nbsp;&nbsp;###### Step #4 > Wait for a freelancer to ask you questions or quote you a price  
@@ -15,4 +15,4 @@ Solution -
 &nbsp;&nbsp;&nbsp;&nbsp;###### Step #8 > Have fun with the product you recieve :)  
 ----------
 
-Discord: https://discord.gg/KgvnmctnZt
+Discord: [Discord](https://discord.gg/KgvnmctnZt)
